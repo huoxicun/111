@@ -23,4 +23,7 @@ def push():
     print(com)
     os.system(com)
 
+    com = 'git status'
+    print(com)
+    os.system(com)
 push()
